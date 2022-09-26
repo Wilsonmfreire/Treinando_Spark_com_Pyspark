@@ -1,5 +1,5 @@
 # Treinando_Spark_com_Pyspark
-
+-------------------------------------------------------------------------------
 ## Configuração de Ambiente:
 -------------------------------------------------------------------------------
  Instalar uma JDK que vai permitir rodar código na linguagem Scala nas JVM (que é como o Spark foi construído):<br>
