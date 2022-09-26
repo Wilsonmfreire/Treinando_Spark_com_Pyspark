@@ -20,7 +20,7 @@ os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
 os.environ["SPARK_HOME"] = "/content/spark-3.1.2-bin-hadoop2.7"
 
 Variáveis definidas, podemos utilizar o findspark que vai permitir a importação dos pacotes necessários para utilizar o PySpark:<br>
-import findspark
+import findspark <br>
 findspark.init()
 
 Agora, podemos, por exemplo, importar o SparkSession do módulo pyspark.sql:<br>
