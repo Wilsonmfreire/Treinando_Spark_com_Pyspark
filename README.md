@@ -1,10 +1,10 @@
 # Treinando_Spark_com_Pyspark
 -------------------------------------------------------------------------------
-## Configuração de Ambiente: =
+## Configuração de Ambiente: 
 -------------------------------------------------------------------------------
  Instalar uma JDK que vai permitir rodar código na linguagem Scala nas JVM (que é como o Spark foi construído):<br>
  !apt-get install openjdk-8-jdk-headless -qq > /dev/null
-
+ >
  Baixar os arquivos do Spark na máquina virtual do Google. versão 3.1.2 do Spark e a versão 2.7 do Hadoop:<br>
  !wget -q https://archive.apache.org/dist/spark/spark-3.1.2/spark-3.1.2-bin-hadoop2.7.tgz
  
