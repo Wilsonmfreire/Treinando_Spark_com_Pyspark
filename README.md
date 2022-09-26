@@ -2,7 +2,7 @@
 
 ## Configuração de Ambiente:
 -------------------------------------------------------------------------------
- Instalar uma JDK que vai permitir rodar código na linguagem Scala nas JVM (que é como o Spark foi construído):
+ Instalar uma JDK que vai permitir rodar código na linguagem Scala nas JVM (que é como o Spark foi construído):<br>
  !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 
  Baixar os arquivos do Spark na máquina virtual do Google. versão 3.1.2 do Spark e a versão 2.7 do Hadoop:
